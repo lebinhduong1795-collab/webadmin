@@ -25,7 +25,7 @@ export function AdminSidebar({ activeSection, onSectionChange, onLogout, adminNa
             <Ship className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-lg">mjxHạ Admin</h1>
+            <h1 className="text-lg">VivuCNWEB Admin</h1>
             <p className="text-xs text-gray-400">Quản trị hệ thống</p>
           </div>
         </div>

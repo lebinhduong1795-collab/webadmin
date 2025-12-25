@@ -3,9 +3,9 @@ import { Save, Bell, Lock, Globe, Users, FileText } from 'lucide-react';
 
 export function Settings() {
   const [settings, setSettings] = useState({
-    siteName: 'mjxHạ',
+    siteName: 'VivuCNWEB',
     siteDescription: 'Nền tảng đặt du thuyền uy tín hàng đầu',
-    contactEmail: 'contact@mjxha.com',
+    contactEmail: 'vivucnweb@gmail.com',
     supportPhone: '1900-1234',
     address: 'Hà Nội, Việt Nam',
     notificationsEmail: true,
